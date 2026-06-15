@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[653,["44","static/chunks/44-e5572c5a3748a5c9.js","177","static/chunks/app/layout-03b4adef027c2751.js"],"Cursor"]
+5:I[1959,[],"ClientPageRoot"]
+6:I[9447,["367","static/chunks/b536a0f1-1ca0bcf0c4f8af4e.js","831","static/chunks/bd904a5c-1c9b3cc2510777ff.js","682","static/chunks/b79b7286-37d65316fe4a52f3.js","44","static/chunks/44-e5572c5a3748a5c9.js","716","static/chunks/716-81cf74eaac96585f.js","974","static/chunks/app/page-ce4e239c916660eb.js"],"default"]
+9:I[4431,[],"OutletBoundary"]
+b:I[5278,[],"AsyncMetadataOutlet"]
+d:I[4431,[],"ViewportBoundary"]
+f:I[4431,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[7150,[],""]
+:HL["/_next/static/media/98e207f02528a563-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d3ebbfd689654d3a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/db96af6b531dc71f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f3f7e95f2dbc4fe4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/9a51a8d0760edf92.css","style"]
+0:{"P":null,"b":"F7GBaRvWX2onDS6wkdb05","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9a51a8d0760edf92.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en-GB","className":"__variable_f367f3 __variable_ce197d __variable_595324","children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(localStorage.getItem('kwoter-theme')==='light')document.documentElement.classList.add('light')}catch(e){}"}}]}],["$","body",null,{"children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L4",null,{}]]}]]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L5",null,{"Component":"$6","searchParams":{},"params":{},"promises":["$@7","$@8"]}],null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+7:{}
+8:"$0:f:0:1:2:children:1:props:children:0:props:params"
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+13:I[622,[],"IconMark"]
+c:{"metadata":[["$","title","0",{"children":"Kwoter AI — Your AI Workforce for Insurance"}],["$","meta","1",{"name":"description","content":"Fifteen AI employees for your insurance brokerage: receptionist, outbound caller, renewals, claims, compliance, finance and more. £738,750 of payroll replaced. Pricing to be announced. Built by Kwoter."}],["$","meta","2",{"property":"og:title","content":"Kwoter AI — Your AI Workforce for Insurance"}],["$","meta","3",{"property":"og:description","content":"Fifteen AI employees for your brokerage. Learns from every conversation. Builds schemes in hours, not months."}],["$","meta","4",{"name":"twitter:card","content":"summary"}],["$","meta","5",{"name":"twitter:title","content":"Kwoter AI — Your AI Workforce for Insurance"}],["$","meta","6",{"name":"twitter:description","content":"Fifteen AI employees for your brokerage. Learns from every conversation. Builds schemes in hours, not months."}],["$","link","7",{"rel":"icon","href":"/icon.png?bbf5ebcccd8def58","type":"image/png","sizes":"256x256"}],["$","link","8",{"rel":"apple-touch-icon","href":"/apple-icon.png?f000c47f570ffdb4","type":"image/png","sizes":"180x180"}],["$","$L13","9",{}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
