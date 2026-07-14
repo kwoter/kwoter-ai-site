@@ -100,7 +100,7 @@ footer.site{border-top:1px solid var(--line);margin-top:44px;padding:26px 0;colo
 @media(max-width:600px){h1{font-size:27px}}`;
 
 const header = `<header class="site"><div class="wrap"><a href="${ORIGIN}/"><img src="${LOGO}" alt="Kwoter AI" /></a><a class="cta-btn" href="${ORIGIN}/">Book a demo</a></div></header>`;
-const footer = `<footer class="site"><div class="wrap">Kwoter AI — your AI workforce for insurance. &copy; 2026 Kwoter.</div></footer>`;
+const footer = `<footer class="site"><div class="wrap">Kwoter AI — your AI workforce for insurance. &copy; 2026 Kwoter.<br>Kwoter Limited is authorised and regulated by the Financial Conduct Authority. Our Financial Conduct Authority Firm Reference Number is 1039951.</div></footer>`;
 
 function related(cur){
   const others = pages.filter(p=>!HOLD.has(p.slug)&&p.slug!==cur).slice(0,5);
