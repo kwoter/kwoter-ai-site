@@ -1,4 +1,20 @@
 User-Agent: *
 Allow: /
 
+# AI assistants and AI search: explicitly welcome, so Kwoter AI can be read and cited
+# (ChatGPT, Claude, Perplexity, Gemini, Copilot/Bing, Apple Intelligence).
+User-Agent: OAI-SearchBot
+User-Agent: ChatGPT-User
+User-Agent: GPTBot
+User-Agent: ClaudeBot
+User-Agent: Claude-SearchBot
+User-Agent: Claude-User
+User-Agent: PerplexityBot
+User-Agent: Perplexity-User
+User-Agent: Google-Extended
+User-Agent: Bingbot
+User-Agent: Applebot
+User-Agent: Applebot-Extended
+Allow: /
+
 Sitemap: https://www.kwoter.ai/sitemap.xml

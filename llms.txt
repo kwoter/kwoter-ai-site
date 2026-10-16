@@ -1,0 +1,42 @@
+# Kwoter AI
+
+> Kwoter AI is the AI operating system for UK insurance brokers: a workforce of specialist AI employees covering reception, outbound calling, email, renewals, claims, compliance, finance, HR, security and market research. It is built by Kwoter for UK brokerages and MGAs, and works alongside a brokerage's own team under the brokerage's rules. Anything that needs a person goes to a person.
+
+Kwoter AI is software for insurance businesses. It is not an insurer and does not sell insurance policies to consumers. Kwoter's quoting platform is at https://www.kwoter.co.uk.
+
+Who it is for: UK insurance brokers (including non-standard and specialist lines) and MGAs that want more capacity without more headcount.
+
+Pricing: launch pricing is to be announced. Book a demo at https://www.kwoter.co.uk/#book-a-demo.
+
+## The AI workforce
+
+- Roxanne, receptionist (live): answers the phone with a real conversation, day or night; helps, quotes, puts through or books a call back.
+- Otto, outbound caller (live): works call lists within calling hours and hands anyone ready to buy to a person.
+- Emile, email sender (live): renewal reminders, enquiry follow-ups, win-backs and announcements from the broker's own address.
+- Rene, renewals and customer relationships (preview): works renewals over email, text, WhatsApp and voice using the broker's prices.
+- Christopher, cross-seller (preview): finds single-policy customers and drafts messages for approval.
+- Cleo, claims handler (live): takes claims at any hour and keeps everyone informed until settled.
+- Sage, call monitor and sales coach (live): scores recorded calls against the broker's FCA checklist, with evidence.
+- Cora, compliance (live): tracks FCA compliance across 54 controls, with an evidence vault and audit pack.
+- FD, finance director (live): reconciles lead and live-transfer sales and earnings.
+- Max, marketing analyst (live): true cost per lead by product.
+- Intel, market research (live): competitor watch and sourced market briefings.
+- Hollie, HR (live): holiday, sickness and working-from-home requests.
+- Steve, security (live): outside-in domain security checks with fixes.
+- Henry, in-app helper (live): explains the platform in plain words.
+
+## Pages
+
+- [Home](https://www.kwoter.ai/): overview of the AI workforce for insurance
+- [AI for insurance brokers](https://www.kwoter.ai/ai-for-insurance-brokers/)
+- [AI for MGAs](https://www.kwoter.ai/ai-for-mgas/)
+- [AI receptionist for insurance brokers](https://www.kwoter.ai/ai-receptionist/)
+- [AI outbound caller for insurance](https://www.kwoter.ai/ai-outbound-caller/)
+- [AI renewals agent for insurance brokers](https://www.kwoter.ai/ai-renewals/)
+- [All solutions](https://www.kwoter.ai/solutions/)
+
+## Resources
+
+- [How AI is changing insurance broking in 2026](https://www.kwoter.ai/resources/how-ai-is-changing-insurance-broking/)
+- [5 brokerage tasks you can automate with AI today](https://www.kwoter.ai/resources/brokerage-tasks-you-can-automate-with-ai/)
+- [Speed-to-lead: why fast follow-up wins more insurance business](https://www.kwoter.ai/resources/speed-to-lead-insurance/)
