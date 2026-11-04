@@ -166,7 +166,7 @@ ${footer}
 </body></html>`;
 }
 
-let urls=[`${ORIGIN}/`];
+let urls=[`${ORIGIN}/`, `${ORIGIN}/videos/`];
 const live=pages.filter(p=>!HOLD.has(p.slug));
 for(const p of live){
   const out=join(DIR,p.slug,"index.html");
